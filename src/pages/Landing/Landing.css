@@ -1,0 +1,9 @@
+.landing {
+  padding: 30px;
+}
+.facts-wrapper {
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: center;
+  margin-top: 50px;
+}
